@@ -1,0 +1,13 @@
+{
+    "name": "planetbiru/musicxml",
+    "description": "Create MusicXML with PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Planetbiru\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
